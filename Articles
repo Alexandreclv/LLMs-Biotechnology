@@ -1,0 +1,26 @@
+https://academic.oup.com/bib/article/25/1/bbad493/7505071
+
+
+"To provide a comprehensive overview to biomedical researchers and healthcare practitioners on the possible and effective utilization of ChatGPT and other LLMs in our domain, we performed a literature survey, exploring their potentials in a wide variety of different applications such as biomedical information retrieval, question answering, medical text summarization, information extraction and medical education."
+
+
+"Research on LMs has been going on for a long period of time [15]. In 2017, the transformer model introduced by Vaswani et al. [16] became the foundational architecture for most modern LMs including ChatGPT. The transformer architecture includes an encoder of bidirectional attention blocks and a decoder of unidirectional attention blocks. Based on the modules used for model development, most recent LMs can be grouped into three categories: encoder-only LMs such as BERT (Bidirectional Encoder Representations from Transformers) [17] and its variants, decoder-only LMs such as the GPT (Generative Pre-trained Transformer) family [18–20] and encoder–decoder LMs such as T5 (Text-to-Text Transfer Transformer) [21] and BART (Bidirectional and AutoRegressive Transformers) [22]. Encoder-only and encoder–decoder LMs are usually trained with an infilling (‘masked LM’ or ‘span corruption’) objective along with an optional downstream task, while decoder-only LMs are trained with autoregressive LMs that predict the next token given the previous tokens."
+
+"Although the encoder-only and encoder–decoder models have achieved state-of-the-art performance across a variety of natural language processing (NLP) tasks, they have the downside that requires significant amount of task-specific data for fine-tuning the model to adapt to the specific tasks. This process needs to update the model parameters and adds complexity to model development and deployment."
+
+________________________________________________________________________________________________________________________
+https://link.springer.com/article/10.1007/s10439-023-03284-0
+
+
+
+
+
+________________________________________________________________________________________________________________________
+https://academic.oup.com/eurheartj/article/45/40/4291/7735859
+
+
+
+
+
+________________________________________________________________________________________________________________________
+https://www.thelancet.com/journals/landig/article/PIIS2589-7500(24)00151-1/fulltext
